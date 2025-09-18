@@ -1,0 +1,2 @@
+# Self-Realizing-Transformer
+学习Transformer过程当中自复现的Transformer以加深对其结构的理解。
